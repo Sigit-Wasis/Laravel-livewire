@@ -19,6 +19,7 @@ class ContactIndex extends Component
         'contactUpdated' => 'handleUpdated',
 	];
 
+    // protect url search
     protected $updatesQueryString = ['search'];
 
     public function mount() 
