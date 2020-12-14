@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    <b>Laravel Livewire</b>
+                    <p>Tutorial From Youtube IDStack</p>
                 </div>
 
                 <div class="links">
